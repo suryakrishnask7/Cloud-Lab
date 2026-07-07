@@ -2,7 +2,7 @@ public class Main {
     public static void main(String[] args) {
         Calculator calc = new Calculator();
 
-        System.out.println("This is a simple calculator program.");
+        System.out.println("This is a Calculator Made with Collaborative Efforts");
 
         int sum = calc.add(5, 3);
         int difference = calc.subtract(10, 4);
